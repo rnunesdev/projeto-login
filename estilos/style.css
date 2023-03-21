@@ -45,7 +45,7 @@ section#login>div#imagem {
     background: #5f2c82 url('../imagens/imagem-login.jpg') no-repeat;
     height: 200px;
     background-size: cover;
-    background-position: center bottom;
+    background-position: center center;
 }
 
 section#login>div#formulario {
