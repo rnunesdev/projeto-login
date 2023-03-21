@@ -28,8 +28,8 @@ main {
 section#login {
     position: absolute;
     background-color: white;
-    height: 500px;
-    width: 250px;
+    height: 520px;
+    width: 260px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -51,4 +51,13 @@ section#login>div#imagem {
 section#login>div#formulario {
     display: block;
     padding: 10px;
+}
+
+div#formulario>h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario>p {
+    font-size: 0.8em;
 }
